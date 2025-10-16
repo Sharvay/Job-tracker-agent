@@ -1,6 +1,11 @@
 # Job-tracker-agent
 AI-powered job application tracker that automatically extracts job details from URLs and saves them to Google Sheets using LangGraph and OpenAI.
 
+<img width="1905" height="882" alt="image" src="https://github.com/user-attachments/assets/fbae8a6b-880e-4423-a740-1521af8b81d6" />
+
+<img width="1910" height="914" alt="image" src="https://github.com/user-attachments/assets/4fee7f93-268c-40e1-b29a-2d51384a4e05" />
+
+<img width="1868" height="230" alt="image" src="https://github.com/user-attachments/assets/e324413a-3b3c-4c38-afd7-01c4a4099b46" />
 
 ## Requirements
 
